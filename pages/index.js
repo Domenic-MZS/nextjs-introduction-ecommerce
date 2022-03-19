@@ -5,11 +5,11 @@ export default function Home() {
     <Layout>
     <div>
       <h1>Products</h1>
-      <li>
-        <ul>Product 1</ul>
-        <ul>Product 2</ul>
-        <ul>Product 3</ul>
-      </li>
+      <ul>
+        <li>Product 1</li>
+        <li>Product 2</li>
+        <li>Product 3</li>
+      </ul>
     </div>
     </Layout>
   )
